@@ -5,7 +5,7 @@ tags: page
 ---
 # This is my {{ title }}!
 Some Macs I have in my collection:
-<ul>
+<ul class="mac-list">
     {% for mac in macs -%}
         <li>{{ mac }}</li>
     {% endfor -%}

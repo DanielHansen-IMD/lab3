@@ -13,3 +13,7 @@ nav ul {
 nav ul li {
     margin: 0 1rem;
 }
+.mac-list {
+    font-size: 1.5rem;
+    color: grey;
+}
